@@ -8,3 +8,7 @@
 * style.css - общие стили для сайта
 * fonts.css - подключение шрифтов
 * geek.psd - макет для фотошопа
+
+Lorem:
+
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Deserunt harum cupiditate, enim voluptas hic alias porro aspernatur soluta dicta, fugiat excepturi necessitatibus. Blanditiis eius quisquam unde dicta error? Quo, perferendis.
