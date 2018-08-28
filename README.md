@@ -1,10 +1,10 @@
 # Материалы для работы с сайтом
 
-##### Смотреть вебинар - [вебинар](https://www.youtube.com/watch?v=AauyNAM4ttI)
+#### Смотреть вебинар - [вебинар](https://www.youtube.com/watch?v=AauyNAM4ttI)
 
 ### Ссылки
 
-> * Готовый  сайт - [смотреть](http://example.com/)
+ * Готовый  сайт - [смотреть](http://example.com/)
  * Подготовленные файлы - [скачать](https://github.com/dualex23/webinar)
  * Готовые файлы проекта - [скачать](http://example.com/)
 
