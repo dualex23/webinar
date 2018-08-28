@@ -22,7 +22,7 @@
 ## Материалы для самостоятельной верстки
 
 Текст:
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Deserunt harum cupiditate, enim voluptas hic alias porro aspernatur soluta dicta, fugiat excepturi necessitatibus. Blanditiis eius quisquam unde dicta error? Quo, perferendis.
+> Lorem ipsum dolor sit amet, consectetur adipisicing elit. Deserunt harum cupiditate, enim voluptas hic alias porro aspernatur soluta dicta, fugiat excepturi necessitatibus. Blanditiis eius quisquam unde dicta error? Quo, perferendis.
 
 ## Инструменты быстрой верстки
 
