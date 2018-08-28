@@ -8,7 +8,7 @@
 
 ### Ссылки
 
- * Готовый  сайт - [смотреть](dualex23.github.io/portfolio/project-ready/)
+ * Готовый  сайт - [смотреть](https://dualex23.github.io/portfolio/project-ready/)
  * Для самостоятельной верстки - [скачать](https://github.com/dualex23/webinar)
  * Готовые файлы проекта - [скачать](https://github.com/dualex23/webinar/tree/master/project-ready)
 
